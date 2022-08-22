@@ -1,5 +1,6 @@
 # Bickcraft-Posicionamento
-Aprendendo sobre posicionamento 
+* Aprendendo sobre posicionamento
+* Utilizando Display Grid
 
 ## Demo 🎥
 
